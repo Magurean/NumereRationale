@@ -1,0 +1,7 @@
+C:\Users\Andrei\source\repos\NumereRationale\bin\Debug\NumereRationale.exe.config
+C:\Users\Andrei\source\repos\NumereRationale\bin\Debug\NumereRationale.exe
+C:\Users\Andrei\source\repos\NumereRationale\bin\Debug\NumereRationale.pdb
+C:\Users\Andrei\source\repos\NumereRationale\obj\Debug\NumereRationale.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\NumereRationale\obj\Debug\NumereRationale.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\NumereRationale\obj\Debug\NumereRationale.exe
+C:\Users\Andrei\source\repos\NumereRationale\obj\Debug\NumereRationale.pdb
